@@ -1,5 +1,11 @@
 ﻿using System;
 
+/*
+CREATIVITY:
+1. I added multiple prompts and questions.
+2. I added spinner animation.
+3. I added countdown animation.
+*/
 
 
 class Program
